@@ -3101,7 +3101,7 @@
 .sr-livetable.sr-rtl .sr-livetable__tableCell.srm-borderLeft {
     border-left-width: 0;
     border-right-style: solid;
-    border-right-width: 1px
+    border-right-width: 10px
 }
 
 .sr-livetable.sr-rtl .sr-livetable__tableCell.srm-alignLeft {
